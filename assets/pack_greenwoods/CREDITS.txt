@@ -1,0 +1,11 @@
+GREEN WOODS PART II - characters and trees
+Author: Ilaria Lazzarotto (hello_tazzina)
+Source: attached ZIP (itch.io)
+License: free to use and modify for any project, credit appreciated,
+do NOT resell the assets individually.
+Credit line for presentation: "Forest sprites by Ilaria Lazzarotto (hello_tazzina)"
+Files:
+- Characters.png (566x356 spritesheet)
+- Trees.png (1457x674)
+Note: cheerful cartoon forest style - used in GUI as menu companion/
+room03 exterior strip with dark horror grading, NOT as main room art.

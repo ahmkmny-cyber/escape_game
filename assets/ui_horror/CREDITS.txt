@@ -1,0 +1,11 @@
+UI Bundle FREE sample sheets (promo/freebie).
+Source: UIBundleFree.zip (user download).
+LICENSE: UNKNOWN - no license file inside the zip.
+Only store preview/sample sheets were included. Before any public
+release, verify the license on the download page.
+Credit the bundle author on the download page if required.
+Files:
+- FreeHorrorUi.png (256x256, 90 parts: panels + buttons + icons)
+- FreeDemo.png (256x256, panel + buttons + icon grid)
+Other theme previews in the zip (pastel/cozy/casino/fantasy/medieval)
+were NOT copied - horror theme only.
